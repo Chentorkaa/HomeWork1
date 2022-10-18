@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\obj\Debug\net6.0\Exapmle2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\obj\Debug\net6.0\Exapmle2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\obj\Debug\net6.0\Exapmle2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\obj\Debug\net6.0\Exapmle2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\obj\Debug\net6.0\Exapmle2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\bin\Debug\net6.0\Exapmle2.exe
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\bin\Debug\net6.0\Exapmle2.deps.json
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\bin\Debug\net6.0\Exapmle2.runtimeconfig.json
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\bin\Debug\net6.0\Exapmle2.dll
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\bin\Debug\net6.0\Exapmle2.pdb
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\obj\Debug\net6.0\Exapmle2.dll
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\obj\Debug\net6.0\refint\Exapmle2.dll
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\obj\Debug\net6.0\Exapmle2.pdb
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\obj\Debug\net6.0\Exapmle2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Обучение\HM1\Exapmle2\obj\Debug\net6.0\ref\Exapmle2.dll
